@@ -254,15 +254,15 @@ while True:
   
    pi=float(input("Digite la presion en pascales: "))
    
-      pf=pi/101300
+   pf=pi/101300
       
-      print(pf,"atm")
+   print(pf,"atm")
       
-    if(d2==6):
+   if(d2==6):
     
-      pi=float(input("Digite la presion en pascales: "))
+   pi=float(input("Digite la presion en pascales: "))
       
-      pf=pi/100000
+   pf=pi/100000
       
       print(pf,"Bar")
       
