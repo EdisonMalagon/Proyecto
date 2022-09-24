@@ -65,3 +65,21 @@ Replit es un entorno de desarrollo online para programar desde el navegador.
 
 Actualmente Repl.it soporta más de 40 lenguajes, entre los cuales podemos encontrar Django, Ruby on Rails, Sinatra, JavaScript, Python, PHP o QBasic. Puede ser muy útil si estás pensando aprender un lenguaje o probar a dar vida a un proyecto, por ejemplo, en Ruby on Rails
 
+
+.  Convertidor de temperatura
+
+Un convertidor de temperatura ayuda en la conversión de las unidades de medida de la temperatura registrada en una unidad particular. La temperatura expresa el grado de calor o frío de un sólido, líquido o gas. La temperatura se mide con un termómetro. Mientras que Kelvin (K) es la unidad SI de temperatura, las personas generalmente usan grados centígrados o Celsius (°C) y Fahrenheit (°F) para medir la temperatura.
+
+
+Unidades de temperatura
+Se pueden utilizar diferentes unidades para registrar la temperatura. Las tres unidades diferentes que se utilizan para medir la temperatura son Celsius (°C), Fahrenheit (°F) y Kelvin (K). Kelvin es la unidad SI para medir la temperatura, mientras que Fahrenheit y Celsius son escalas de uso común.
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/109982236/192081196-bbf9a359-0c1b-4432-b416-7f1f6a0e7f43.png)
+
+ 
+ 
+Celsius
+La escala Celsius fue inventada en 1742 por el astrónomo sueco Anders Celsius y, por lo tanto, lleva su nombre. Celsius, también llamado centígrado, se basa en el punto de congelación del agua que es 0° y el punto de ebullición del agua que es 100°. La temperatura en Celsius se representa con °C. La temperatura normal del cuerpo humano es de 37°C.
+
+
