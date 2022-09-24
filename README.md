@@ -26,8 +26,8 @@ Julian Jimenez Ruiz
 Universidad Ean
 2022
 
+![image](https://user-images.githubusercontent.com/110119255/192081153-bef9869c-d19b-4beb-830b-04b98c14d2e1.png)
 
-![image](https://user-images.githubusercontent.com/110119255/192081091-d9724e5b-7e8c-44e7-91e0-06ca2307a624.png)
 
 PYTHON  
 
