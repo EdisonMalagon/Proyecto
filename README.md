@@ -6,7 +6,9 @@ Proyecto
 
 
 Lina Fernanda López
+
 Edison Fabian Malagón 
+
 Julian Jimenez Ruiz 
 
 
