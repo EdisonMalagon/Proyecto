@@ -182,41 +182,78 @@ print("                           Calculadora Quimica                           
 print("--------------------------------------------------------------------------")
 
 d1=int(input("Digite la funcion que desea utilizar 1. Convertir temperaturas  2. Convertir presiones 3. Numero de moles 4. reactivo limite y en execeso 5. Gases ideales 6. Rendimiento procentual: "))
+
 while True:
+
   if(d1==1):
-    d2=int(input("1. celsius a kelvin 2. kelvin a celsius 3. fahrenheit a rankie 4. rankie a fahrenheit: "))
+  
+   d2=int(input("1. celsius a kelvin 2. kelvin a celsius 3. fahrenheit a rankie 4. rankie a fahrenheit: "))
     if(d2==1):
-      ti=float(input("digite la temperatura °C: "))
-      tf=ti+273.15
-      print(tf,"°K")
-    if(d2==2):
-      ti=float(input("digite la temperatura °K: "))
-      tf=ti-273.15
-      print(tf,"°C")
-    if(d2==3):
-      ti=float(input("digite la temperatura °F: "))
-      tf=ti+459.67
-      print(tf,"°R")
-    if(d2==4):
-      ti=float(input("digite la temperatura °R: "))
-      tf=ti-459.67
-      print(tf,"°F")
+    
+   ti=float(input("digite la temperatura °C: "))
+   
+   tf=ti+273.15
+      
+   print(tf,"°K")
+   
+   if(d2==2):
+   
+   ti=float(input("digite la temperatura °K: "))
+   
+   tf=ti-273.15
+   
+   print(tf,"°C")
+   
+   if(d2==3):
+   
+   ti=float(input("digite la temperatura °F: "))
+   
+   tf=ti+459.67
+   
+   print(tf,"°R")
+   
+   if(d2==4):
+   
+   ti=float(input("digite la temperatura °R: "))
+   
+   tf=ti-459.67
+   
+   print(tf,"°F")
+   
   if(d1==2):
-    d2=int(input("1. atm a bar 2. atm a pascal 3. bar a atm 4. bar a pascal 5. pascal a atm 6. pascal a bar: "))
-    if(d2==1):
-      pi=float(input("Digite la presion en atm: "))
-      pf=pi*1.01325
-      print(pf,"Bar")
-    if(d2==2):
-      pi=float(input("Digite la presion en atm: "))
-      pf=pi*101325
-      print(pf,"pascales")
-    if(d2==3):
-      pi=float(input("Digite la presion en Bar: "))
-      pf=pi/1.013
-      print(pf,"atm")
-    if(d2==4):
-      pi=float(input("Digite la presion en Bar: "))
-      pf=pi*100000
-      print(pf,"Pascales")
-    if(d2==5):
+  
+   d2=int(input("1. atm a bar 2. atm a pascal 3. bar a atm 4. bar a pascal 5. pascal a atm 6. pascal a bar: "))
+    
+   if(d2==1):
+      
+   pi=float(input("Digite la presion en atm: "))
+    
+   pf=pi*1.01325
+      
+   print(pf,"Bar")
+    
+   if(d2==2):
+      
+   pi=float(input("Digite la presion en atm: "))
+      
+   pf=pi*101325
+      
+   print(pf,"pascales")
+   
+   if(d2==3):
+   
+   pi=float(input("Digite la presion en Bar: "))
+  
+   pf=pi/1.013
+   
+   print(pf,"atm")
+    
+   if(d2==4):
+     
+   pi=float(input("Digite la presion en Bar: "))
+     
+   pf=pi*100000
+      
+   print(pf,"Pascales")
+    
+   if(d2==5):
