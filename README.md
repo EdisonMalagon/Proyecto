@@ -343,9 +343,43 @@ while True:
    print("Digite los datos en el siguiente orden separados por un espacio presion, moles, R(esta es una constante rectifica que las unidades suplan la ecuacion), temperatura: ")
       
    datos=input()
-     
-   pf=pi*100000
-      
-   print(pf,"Pascales")
-    
-   if(d2==5):
+  p,n,r,t=datos .split(" ")
+  p=float(p)
+  n=float(n)
+  r=float(r)
+  t=float(t)
+  v=(n*r*t)/p
+  print("volumen es", v)
+ if(d2==3):
+  print("Digite los datos en el siguiente orden separados por un espacio volumen,presion, R(esta es una constante rectifica que las unidades suplan la ecuacion), temperatura: ")
+  datos=input()
+  v,p,r,t=datos.split(" ")
+  v=float(v)
+  p=float(p)
+  r=float(r)
+  t=float(t)
+  n=(p*v)/(r*t)
+  print("moles es", n)
+ if(d2==4):
+  print("Digite los datos en el siguiente orden separados por un espacio volumen, moles, R(esta es una constante rectifica que las unidades suplan la ecuacion), presion: ")
+  datos=input()
+  v,n,r,p=datos.split(" ")
+  v=float(v)
+  n=float(n)
+  r=float(r)
+  p=float(p)
+  t=(p*v)/(n*r)
+  print("temperatura es", t)
+ if(d1==6):
+  print(Digite el rendimiento real seguido de un espacio y el rendimiento teorico: ")
+  datos=inpu()
+  r,t=datos.split(" ")
+  r=float(r)
+  t=float(t)
+  rp=(r/t)*100
+  print(rp,"%")
+ i=int(input("Digite 1 para hacer otro calculo o 0 para finalizar: "))
+ if (i==0):
+  break
+  
+
