@@ -83,3 +83,21 @@ Celsius
 La escala Celsius fue inventada en 1742 por el astrónomo sueco Anders Celsius y, por lo tanto, lleva su nombre. Celsius, también llamado centígrado, se basa en el punto de congelación del agua que es 0° y el punto de ebullición del agua que es 100°. La temperatura en Celsius se representa con °C. La temperatura normal del cuerpo humano es de 37°C.
 
 
+
+             1.  Convertidor de presión 
+
+Uso de la calculadora 
+
+La presión es una cualidad escalar que refleja cómo actúa la fuerza sobre una superficie. 
+
+P = F/A 
+
+Donde P es igual a la presión, F es la fuerza normal y A es el área. Dado que la presión se deriva de la fuerza y el área, muchas unidades de presión relacionan directamente la fuerza con el área. Algunos son obvios, como libras por pulgada cuadrada, pero incluso el estándar SI Pascal es en realidad una expresión de un Newton por metro cuadrado. 
+
+Cómo convertir unidades de presión 
+
+Las conversiones se realizan utilizando un factor de conversión. Al conocer el factor de conversión, convertir entre unidades puede convertirse en un simple problema de multiplicación: 
+
+![image](https://user-images.githubusercontent.com/110119255/192081274-4ed1358f-3ab1-4cff-927b-7aeb92cdccd8.png)
+
+
