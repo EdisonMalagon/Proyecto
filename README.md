@@ -197,7 +197,7 @@ Esta calculadora usa R = 8.31446261815324 m 3 ·Pa·K -1 ·mol -1 . Si es necesa
 
 
 
- 
+
              6.  Rendimiento porcentual
 El rendimiento téorico es la máxima cantidad de producto que podemos esperar obtener de una reacción basándonos en la cantidad de reactivo limitante. En la práctica, sin embargo, es difícil que los químicos obtengan el rendimiento máximo por varias razones. Cuando se realiza una reacción en el laboratorio se puede perder algo del producto durante la purificación o los pasos de aislamiento. Incluso puedes llegar a decidir que vale la pena perder 10% de tu producto en un paso extra de purificación porque sabes que es más importante obtener un producto extremadamente puro en lugar de tener más cantidad de un producto menos puro. 
 
