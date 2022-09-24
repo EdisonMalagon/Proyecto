@@ -66,7 +66,7 @@ Replit es un entorno de desarrollo online para programar desde el navegador.
 Actualmente Repl.it soporta más de 40 lenguajes, entre los cuales podemos encontrar Django, Ruby on Rails, Sinatra, JavaScript, Python, PHP o QBasic. Puede ser muy útil si estás pensando aprender un lenguaje o probar a dar vida a un proyecto, por ejemplo, en Ruby on Rails
 
 
-.  Convertidor de temperatura
+             1.  Convertidor de temperatura
 
 Un convertidor de temperatura ayuda en la conversión de las unidades de medida de la temperatura registrada en una unidad particular. La temperatura expresa el grado de calor o frío de un sólido, líquido o gas. La temperatura se mide con un termómetro. Mientras que Kelvin (K) es la unidad SI de temperatura, las personas generalmente usan grados centígrados o Celsius (°C) y Fahrenheit (°F) para medir la temperatura.
 
