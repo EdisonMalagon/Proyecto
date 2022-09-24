@@ -28,6 +28,7 @@ Universidad Ean
 
 
 ![image](https://user-images.githubusercontent.com/110119255/192081091-d9724e5b-7e8c-44e7-91e0-06ca2307a624.png)
+
 PYTHON  
 
 ¿Por qué se debería usar Python? 
@@ -43,4 +44,24 @@ Creación de aplicaciones de escritorio, incluidas aplicaciones GUI, herramienta
 - Hacer tareas de administración y automatización de sistemas informáticos. 
 
 - Realización de tareas de DevOps 
+
+Análisis de datos y aprendizaje automático. 
+
+Python se ha convertido en un elemento básico en la ciencia de datos, lo que permite a los analistas de datos y otros profesionales usar el lenguaje para realizar cálculos estadísticos complejos, crear visualizaciones de datos, crear algoritmos de aprendizaje automático, manipular y analizar datos y completar otras tareas relacionadas con datos. 
+
+Python puede crear una amplia gama de diferentes visualizaciones de datos, como gráficos de líneas y barras, gráficos circulares, histogramas y gráficos en 3D. Python también tiene una serie de bibliotecas que permiten a los codificadores escribir programas para el análisis de datos y el aprendizaje automático de manera más rápida y eficiente, como Tensor Flow y Keras. 
+
+
+![image](https://user-images.githubusercontent.com/110119255/192081116-cc89818c-753e-420b-919d-4d0bf6710b16.png)
+
+REPLIT 
+
+¿Qué es Replit? 
+
+Replit es un entorno de desarrollo online para programar desde el navegador. 
+
+ 
+¿Qué lenguajes de programación maneja Replit? 
+
+Actualmente Repl.it soporta más de 40 lenguajes, entre los cuales podemos encontrar Django, Ruby on Rails, Sinatra, JavaScript, Python, PHP o QBasic. Puede ser muy útil si estás pensando aprender un lenguaje o probar a dar vida a un proyecto, por ejemplo, en Ruby on Rails
 
