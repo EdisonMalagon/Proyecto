@@ -155,12 +155,51 @@ El mol (a menudo abreviado como mol) es una unidad de medida. Si uno vendiera hu
 
 
 
+             4.  Reactivo Limite
+En el proceso de una reacción química, siempre habrá un reactivo que determina el final de la reacción y otro que se encuentre en exceso. Si te llegara a acabar el reactivo limitante, no se podría continuar con la reacción que se esté realizando. Ejemplo si se quieren preparar unos sándwiches y se tienen 6 rebanadas de pan y 2 lonjas de queso, se sabe que para preparar sándwiches se necesitan dos rebanadas de pan por cada uno, así que se tendrían para hacer 3 sándwiches, pero sólo se tienen 2 rebanadas de queso, por lo tanto, el reactivo limitante es el queso, puesto que como no hay más queso no se podrán realizar más sándwiches, y el reactivo en exceso corresponderá al pan. 
+
+Generalmente cuando se efectúa una reacción química, los reactivos que están implicados nunca se encuentran en las proporciones exactas para que se de dicha reacción. Como consecuencia de esto, el reactivo que se consume en primer lugar corresponde al reactivo limitante, la cantidad de este reactivo determina la cantidad total del producto que se formó, ya que una vez este se acaba, la reacción no puede continuar, Los reactivos que quedan sin reaccionar cuando el reactivo límite se termina, se llaman reactivos en exceso. 
 
 
 
+ 
+             5.  Gases ideales
+             
+Uso de la calculadora 
+
+La calculadora de la ley de los gases ideales encuentra la variable desconocida en la ecuación PV = nRT cuando se conocen tres de las variables. 
+
+Fórmula de la ley de los gases ideales 
+
+La fórmula de la ley de los gases ideales establece que la presión multiplicada por el volumen es igual a los moles por la constante universal de los gases por la temperatura. 
+
+PAGSV= n R TPAGSV=norteRT 
+
+Dónde: 
+
+P = presión 
+
+V = volumen 
+
+n = número de moles 
+
+T = temperatura 
+
+R = constante de los gases 
+
+Constante de gas R 
+
+La constante de gas R es una constante de unidades de energía por incremento de temperatura por mol. También se conoce como constante de gas universal, constante de gas ideal y constante de gas molar. 
+
+El valor de la constante de gas R depende de las unidades que estés usando en tu cálculo. Consulte Wikipedia Gas Constant para obtener una tabla de valores R y sus unidades correspondientes. 
+
+Esta calculadora usa R = 8.31446261815324 m 3 ·Pa·K -1 ·mol -1 . Si es necesario, las entradas de su calculadora se convierten a estas mismas unidades para realizar el cálculo y luego se vuelven a convertir a sus unidades de respuesta. 
 
 
 
+ 
+             6.  Rendimiento porcentual
+El rendimiento téorico es la máxima cantidad de producto que podemos esperar obtener de una reacción basándonos en la cantidad de reactivo limitante. En la práctica, sin embargo, es difícil que los químicos obtengan el rendimiento máximo por varias razones. Cuando se realiza una reacción en el laboratorio se puede perder algo del producto durante la purificación o los pasos de aislamiento. Incluso puedes llegar a decidir que vale la pena perder 10% de tu producto en un paso extra de purificación porque sabes que es más importante obtener un producto extremadamente puro en lugar de tener más cantidad de un producto menos puro. 
 
 
 
