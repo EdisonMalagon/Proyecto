@@ -217,3 +217,50 @@ while True:
       pf=pi*100000
       print(pf,"Pascales")
     if(d2==5):
+    pi=float(input("Digite la presion en pascales: "))
+      pf=pi/101300
+      print(pf,"atm")
+    if(d2==6):
+      pi=float(input("Digite la presion en pascales: "))
+      pf=pi/100000
+      print(pf,"Bar")
+  if(d1==3):
+    print("Digite la masa total seguido por un espacio y la masa molecular del reactivo: ")
+    datos=input()
+    mt,mm=datos.split(" ")
+    mt=float(mt)
+    mm=float(mm)
+    n=mt/mm
+    print(n,"moles")
+  if(d1==4):
+    print("Digite el numero de moles del primer reactivo seguido de un espacio y el coeficiente estequiometrico, este se obtiene observando la ecuacion balanceada: ")
+    datos=input()
+    m,c=datos.split(" ")
+    m=float(m)
+    c=float(c)
+    print("Digite el numero de moles del segundo reactivo seguido de un espacio y el coeficiente estequiometrico, este se obtiene observando la ecuacion balanceada: ")
+    datos=input()
+    m2,c2=datos.split(" ")
+    m2=float(m2)
+    c2=float(c2)
+    r1=m/c
+    r2=m2/c2
+    if(r1>r2):
+      print("El reactivo 1 es el reactivo en exceso, el reactivo 2 es el limitante")
+    else:
+      print("El reactivo 2 es el reactivo en exceso, el reactivo 1 es el limitante")
+  if(d1==5):
+    d2=int(input("Digite la variable a hallar 1. presion 2.Volumen 3. moles 4.temperatura: "))
+    if(d2==1):
+      print("Digite los datos en el siguiente orden separados por un espacio volumen, moles, R(esta es una constante rectifica que las unidades suplan la ecuacion), temperatura: ")
+      datos=input()
+      v,n,r,t=datos.split(" ")
+      v=float(v)
+      n=float(n)
+      r=float(r)
+      t=float(t)
+      p=(n*r*t)/v
+      print("presion es", p)
+    if(d2==2):
+      print("Digite los datos en el siguiente orden separados por un espacio presion, moles, R(esta es una constante rectifica que las unidades suplan la ecuacion), temperatura: ")
+      datos=input()
